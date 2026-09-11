@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="680" viewBox="0 0 900 680">
+<style>
+.box{fill:#fff;stroke:#222;stroke-width:2}.title{font:700 20px Arial}.text{font:15px Arial}.small{font:13px Arial}
+</style>
+<text x="450" y="35" text-anchor="middle" class="title">ShopSphere – Implemented Architecture</text>
+<rect x="300" y="65" width="300" height="70" rx="12" class="box"/>
+<text x="450" y="93" text-anchor="middle" class="title">React Frontend</text>
+<text x="450" y="117" text-anchor="middle" class="text">Pages • Components • Axios</text>
+<path d="M450 135 V175" stroke="#222" stroke-width="2"/>
+<polygon points="450,185 443,173 457,173" fill="#222"/>
+<rect x="300" y="185" width="300" height="70" rx="12" class="box"/>
+<text x="450" y="213" text-anchor="middle" class="title">Express Routes</text>
+<text x="450" y="237" text-anchor="middle" class="text">REST API endpoints</text>
+<path d="M450 255 V295" stroke="#222" stroke-width="2"/>
+<polygon points="450,305 443,293 457,293" fill="#222"/>
+<rect x="300" y="305" width="300" height="70" rx="12" class="box"/>
+<text x="450" y="333" text-anchor="middle" class="title">Controllers</text>
+<text x="450" y="357" text-anchor="middle" class="text">HTTP request coordination</text>
+<path d="M450 375 V415" stroke="#222" stroke-width="2"/>
+<polygon points="450,425 443,413 457,413" fill="#222"/>
+<rect x="300" y="425" width="300" height="70" rx="12" class="box"/>
+<text x="450" y="453" text-anchor="middle" class="title">Services</text>
+<text x="450" y="477" text-anchor="middle" class="text">Business logic</text>
+<path d="M450 495 V535" stroke="#222" stroke-width="2"/>
+<polygon points="450,545 443,533 457,533" fill="#222"/>
+<rect x="300" y="545" width="300" height="70" rx="12" class="box"/>
+<text x="450" y="573" text-anchor="middle" class="title">Repositories</text>
+<text x="450" y="597" text-anchor="middle" class="text">Data-access abstraction</text>
+<path d="M450 615 V635" stroke="#222" stroke-width="2"/>
+<polygon points="450,645 443,633 457,633" fill="#222"/>
+<text x="450" y="670" text-anchor="middle" class="text">Mongoose Models → MongoDB Atlas</text>
+</svg>

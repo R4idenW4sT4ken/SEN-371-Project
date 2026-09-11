@@ -1,0 +1,47 @@
+Details
+{
+  "name": "Test User",
+  "email": "testuser@example.com",
+  "password": "Password123"
+}
+
+registry info
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2YWEwMWYxMTA1MDc0YzkxNDY5Yzg2MTEiLCJpYXQiOjE3ODg4Nzg2MDksImV4cCI6MTc4ODg4MjIwOX0.rXrDAJSbUSRVFVyGgldK57Z3x1mQZbj3pdrOzMHaENc",
+  "user": {
+    "id": "6aa01f1105074c91469c8611",
+    "name": "Test User",
+    "email": "testuser@example.com",
+    "role": "customer"
+  }
+}
+
+login info
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2YWEwMWYxMTA1MDc0YzkxNDY5Yzg2MTEiLCJpYXQiOjE3ODg4NzkwNzEsImV4cCI6MTc4ODg4MjY3MX0.wHqbqgGp89buozEM81Y6jHcMLxPMDHwymdjREPCzans",
+  "user": {
+    "id": "6aa01f1105074c91469c8611",
+    "name": "Test User",
+    "email": "testuser@example.com",
+    "role": "customer"
+  }
+}
+
+products
+{
+  "products": [],
+  "meta": {
+    "page": 1,
+    "limit": 20,
+    "total": 0
+  }
+}
+Create Product
+{
+  "products": [],
+  "meta": {
+    "page": 1,
+    "limit": 20,
+    "total": 0
+  }
+}
