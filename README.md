@@ -1,7 +1,4 @@
-# ShopSphere – SEN371 Milestone 3 (API Integration)
-
-MERN e-commerce application. This milestone completed the **data-handling** layer for
-orders and reviews, plus a database seed that populates **every** collection.
+# ShopSphere – SEN371 Project
 
 ## Stack
 - Frontend: React + Vite
